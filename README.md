@@ -6,3 +6,5 @@ So now, you just need FastXeno then you can quickly get Xeno executor fast
 
 - 🔗 https://xeno.now (Website)
 - 🔗 https://discord.gg/getxeno (Discord)
+
+Thanks for reading!
